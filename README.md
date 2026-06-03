@@ -90,6 +90,7 @@ Alex R. Daiz Jr
 
 Software Developer:
 Justin Paquiding
+Benedict Dalimit
 
 Client:
 John Carlo A. Castro
